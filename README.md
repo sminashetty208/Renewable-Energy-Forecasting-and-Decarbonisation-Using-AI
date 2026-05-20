@@ -1,4 +1,4 @@
-# Renewable-Energy-Forecasting-and-Decarbonisation-Using-AI
+# Renewable Energy Forecasting and Decarbonisation Using AI
 <ins> Thesis Overview </ins>
 
 This thesis presents an AI-driven renewable energy forecasting framework designed to improve the prediction accuracy of solar and wind energy generation while supporting long-term decarbonisation planning. The research integrates German renewable electricity generation data with ERA5 meteorological datasets to analyse renewable energy trends, forecast future energy production, and evaluate sustainability pathways from 2021–2031.
