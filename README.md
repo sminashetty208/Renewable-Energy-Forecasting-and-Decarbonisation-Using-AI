@@ -64,7 +64,7 @@ These scenarios were used to evaluate future renewable energy growth and potenti
 <li>Sustainability and carbon reduction analysis</li>
 <li>Scenario-based energy transition modelling</li>
 <li>Advanced data visualization and trend analysis</li>
-<li>Power BI dashboard integration support link[https://app.powerbi.com/reportEmbed?reportId=b1b202ea-a525-4e3c-b0ed-1618a71e4f39&autoAuth=true&ctid=3b4a51c3-1f0b-46fa-b4b4-1ea1e00ec0d0]</li>
+<li>Power BI dashboard integration support link</li>
 </ul>
 <ins>Technologies Used</ins>
 <ul>
@@ -79,3 +79,4 @@ These scenarios were used to evaluate future renewable energy growth and potenti
 <li>Plotly</li>
 <li>Power BI</li>
 </ul>
+Link to power BI: https://app.powerbi.com/reportEmbed?reportId=b1b202ea-a525-4e3c-b0ed-1618a71e4f39&autoAuth=true&ctid=3b4a51c3-1f0b-46fa-b4b4-1ea1e00ec0d0
