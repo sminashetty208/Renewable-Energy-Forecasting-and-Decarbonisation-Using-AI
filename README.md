@@ -15,6 +15,7 @@ German Renewable Electricity Generation Dataset:
 <li>Forecasting period: 2021–2031</li>
 </ul>
 <ins>Machine Learning & Deep Learning Models</ins>
+
 The following models were implemented and evaluated:
 <ul>
 <li>Machine Learning Models</li>
@@ -40,6 +41,7 @@ The following models were implemented and evaluated:
 </ul>
 
 <ins>Evaluation Metrics</ins>
+
 Model performance was evaluated using:
 <ul>
 <li>Mean Absolute Error (MAE)</li>
@@ -48,6 +50,7 @@ Model performance was evaluated using:
 <li>Mean Absolute Percentage Error (MAPE)</li>
 </ul>
 <ins>Sustainability & Scenario Analysis</ins>
+
 The thesis includes long-term sustainability modelling using multiple renewable energy transition scenarios:
 <ul>
 <li>Policy Delay Scenario</li>
