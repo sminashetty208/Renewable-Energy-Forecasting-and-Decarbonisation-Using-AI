@@ -7,70 +7,77 @@ The study applies both traditional Machine Learning and Deep Learning techniques
 
 
 <ins>Datasets Used</ins>
-German Renewable Electricity Generation Dataset
-ERA5 Weather and Meteorological Dataset
-Historical data period: 2015–2020
-Forecasting period: 2021–2031
+
+German Renewable Electricity Generation Dataset:
+<ul>
+<li>ERA5 Weather and Meteorological Dataset</li>
+<li>Historical data period: 2015–2020</li>
+<li>Forecasting period: 2021–2031</li>
+</ul>
 <ins>Machine Learning & Deep Learning Models</ins>
 
 The following models were implemented and evaluated:
-
-Machine Learning Models
-Ridge Regression
-Random Forest Regression
-XGBoost Regression
-Prophet Forecasting Model
-Deep Learning Model
-Long Short-Term Memory (LSTM) Neural Network
-
+<ul>
+<li>Machine Learning Models</li>
+<li>Ridge Regression</li>
+<li>Random Forest Regression</li>
+<li>XGBoost Regression</li>
+<li>Prophet Forecasting Model</li>
+<li>Deep Learning Model</li>
+<li>Long Short-Term Memory (LSTM) Neural Network</li>
+</ul>
 
 <ins>The project workflow includes:</ins>
-
-Data Collection and Integration
-Data Cleaning and Preprocessing
-Feature Engineering and Temporal Analysis
-Exploratory Data Analysis and Visualization
-Model Training and Validation
-Hyperparameter Tuning using Cross-Validation
-Renewable Energy Forecasting
-Scenario-Based Sustainability Analysis
-Carbon Emissions Forecasting and Evaluation
+<ul>
+<li>Data Collection and Integration</li>
+<li>Data Cleaning and Preprocessing</li>
+<li>Feature Engineering and Temporal Analysis</li>
+<li>Exploratory Data Analysis and Visualization</li>
+<li>Model Training and Validation</li>
+<li>Hyperparameter Tuning using Cross-Validation</li>
+<li>Renewable Energy Forecasting</li>
+<li>Scenario-Based Sustainability Analysis</li>
+<li>Carbon Emissions Forecasting and Evaluation</li>
+</ul>
 
 <ins>Evaluation Metrics</ins>
 
 Model performance was evaluated using:
-
-Mean Absolute Error (MAE)
-Root Mean Squared Error (RMSE)
-R² Score
-Mean Absolute Percentage Error (MAPE)
-
+<ul>
+<li>Mean Absolute Error (MAE)</li>
+<li>Root Mean Squared Error (RMSE)</li>
+<li>R² Score</li>
+<li>Mean Absolute Percentage Error (MAPE)</li>
+</ul>
 <ins>Sustainability & Scenario Analysis</ins>
 The thesis includes long-term sustainability modelling using multiple renewable energy transition scenarios:
-
-Policy Delay Scenario
-Current Trend Scenario
-Green Transition Scenario
-
+<ul>
+<li>Policy Delay Scenario</li>
+<li>Current Trend Scenario</li>
+<li>Green Transition Scenario</li>
+</ul>
 These scenarios were used to evaluate future renewable energy growth and potential carbon emission reductions under different policy and investment conditions.
 
 <ins>Key Features</ins>
-Renewable energy forecasting using AI
-Weather-driven prediction modelling
-Long-term forecasting from 2021–2031
-Sustainability and carbon reduction analysis
-Scenario-based energy transition modelling
-Advanced data visualization and trend analysis
-Power BI dashboard integration support
-
+<ul>
+<li>Renewable energy forecasting using AI</li>
+<li>Weather-driven prediction modelling</li>
+<li>Long-term forecasting from 2021–2031</li>
+<li>Sustainability and carbon reduction analysis</li>
+<li>Scenario-based energy transition modelling</li>
+<li>Advanced data visualization and trend analysis</li>
+<li>Power BI dashboard integration support link</li>
+</ul>
 <ins>Technologies Used</ins>
-Python
-Pandas
-NumPy
-Scikit-learn
-TensorFlow / Keras
-XGBoost
-Prophet
-Matplotlib
-Plotly
-Power BI
+<ul>
+<li>Python</li>
+<li>Pandas</li>
+<li>NumPy</li>
+<li>Scikit-learn</li>
+<li>TensorFlow / Keras</li>
+<li>XGBoost</li>
+<li>Prophet</li>
+<li>Matplotlib</li>
+<li>Plotly</li>
+<li>Power BI</li>
+</ul>
