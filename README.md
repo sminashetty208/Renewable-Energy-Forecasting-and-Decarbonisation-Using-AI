@@ -83,3 +83,13 @@ These scenarios were used to evaluate future renewable energy growth and potenti
 <li>Power BI</li>
 </ul>
 Link to power BI: https://app.powerbi.com/reportEmbed?reportId=b1b202ea-a525-4e3c-b0ed-1618a71e4f39&autoAuth=true&ctid=3b4a51c3-1f0b-46fa-b4b4-1ea1e00ec0d0
+
+<ins>Power BI datasets</ins>
+
+The Power BI dashboards were developed using processed CSV datasets generated from the Google Colab machine learning and forecasting pipeline("forcastingw_s.ipynb"). These datasets are included within the repository to support reproducibility, dashboard integration, and analytical transparency. the files are:
+<ul>
+<li>current_trend_forecast.csv</li>
+<li>forecast_capacity_factors.csv</li>
+<li>model_comparison.csv</li>
+<li>powerbi.csv</li>
+</ul>
