@@ -93,4 +93,3 @@ The Power BI dashboards were developed using processed CSV datasets generated fr
 <li>model_comparison.csv</li>
 <li>powerbi.csv</li>
 </ul>
-<img src="<img width="967" height="550" alt="image" src="https://github.com/user-attachments/assets/5c449a0f-fa27-4d78-b78e-939b5278fba1" />
